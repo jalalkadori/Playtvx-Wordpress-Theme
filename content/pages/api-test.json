@@ -1,0 +1,15 @@
+{
+  "id": 2947,
+  "title": "PlayTVX API Test",
+  "status": "draft",
+  "slug": "playtvx-api-test",
+  "acf": {
+    "page_sections": [
+      {
+        "acf_fc_layout": "rich_text",
+        "heading": "GitHub Automation Test",
+        "content": "<p>This content was published from GitHub Actions to WordPress.</p>"
+      }
+    ]
+  }
+}
