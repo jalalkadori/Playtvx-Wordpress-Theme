@@ -7,7 +7,7 @@
     "page_sections": [
       {
         "acf_fc_layout": "rich_text",
-        "heading": "GitHub Automation Test",
+        "heading": "GitHub Automation Test 2",
         "content": "<p>This content was published from GitHub Actions to WordPress.</p>"
       }
     ]
