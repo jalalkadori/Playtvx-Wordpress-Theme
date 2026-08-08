@@ -1,0 +1,28 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {
+      "contentSize": "800px",
+      "wideSize": "1140px"
+    },
+    "color": {
+      "custom": false,
+      "customGradient": false,
+      "palette": [
+        { "slug": "playtvx-navy", "name": "PlayTVX Navy", "color": "#08172c" },
+        { "slug": "playtvx-red", "name": "PlayTVX Red", "color": "#ee2634" },
+        { "slug": "playtvx-gold", "name": "PlayTVX Gold", "color": "#e8c35b" },
+        { "slug": "white", "name": "White", "color": "#ffffff" }
+      ]
+    },
+    "spacing": {
+      "units": ["px", "rem", "%", "vw"]
+    },
+    "typography": {
+      "dropCap": false,
+      "fluid": true
+    }
+  }
+}
