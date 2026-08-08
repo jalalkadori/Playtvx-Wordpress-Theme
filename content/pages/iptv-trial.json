@@ -33,17 +33,12 @@
         ],
         "primary_offer": "trial",
         "primary_label": "Start Your 24-Hour Trial - $1.99",
-        "primary_cta": "",
-        "secondary_offer": null,
-        "secondary_label": "",
-        "secondary_cta": "",
         "image": 181
       },
       {
         "acf_fc_layout": "rich_text",
         "heading": "Why Start With an IPTV Trial?",
-        "content": "<p>An IPTV trial gives you a simple way to test the service on your own internet connection and devices before choosing a longer subscription. During your 24-hour PlayTVX trial, you can explore the channel lineup, open live sports and entertainment channels, browse the VOD library and see how quickly streams load on the devices you actually use.</p><p>It is also the best time to check the things that matter most to you: picture quality, channel availability, navigation, EPG support and device compatibility. If you need help getting started, our support team can guide you through setup.</p>",
-        "cta": null
+        "content": "<p>An IPTV trial gives you a simple way to test the service on your own internet connection and devices before choosing a longer subscription. During your 24-hour PlayTVX trial, you can explore the channel lineup, open live sports and entertainment channels, browse the VOD library and see how quickly streams load on the devices you actually use.</p><p>It is also the best time to check the things that matter most to you: picture quality, channel availability, navigation, EPG support and device compatibility. If you need help getting started, our support team can guide you through setup.</p>"
       },
       {
         "acf_fc_layout": "split_features",
@@ -89,8 +84,7 @@
           }
         ],
         "offer": "trial",
-        "cta_label": "Get the 24-Hour Trial - $1.99",
-        "cta": ""
+        "cta_label": "Get the 24-Hour Trial - $1.99"
       },
       {
         "acf_fc_layout": "devices",
@@ -110,8 +104,7 @@
         ],
         "items": "Smart TV\nFire TV\nAndroid TV\nApple TV\niPhone & iPad\nAndroid Mobile\nWindows PC\nMac\nMAG & Enigma2",
         "offer": "trial",
-        "cta_label": "Start Your IPTV Trial - $1.99",
-        "cta": ""
+        "cta_label": "Start Your IPTV Trial - $1.99"
       },
       {
         "acf_fc_layout": "social_proof",
@@ -137,14 +130,12 @@
           1785
         ],
         "offer": "trial",
-        "cta_label": "Try PlayTVX for 24 Hours - $1.99",
-        "cta": ""
+        "cta_label": "Try PlayTVX for 24 Hours - $1.99"
       },
       {
         "acf_fc_layout": "rich_text",
         "heading": "What to Test Before Choosing an IPTV Subscription",
-        "content": "<p>For the most useful trial, test PlayTVX at the same times and on the same internet connection you normally use for streaming. Open several live channels, try the content categories you care about most and test more than one video quality when available.</p><p>If you plan to watch on a Smart TV or Fire TV, complete the setup on that device during the trial rather than testing only on a phone or computer. This gives you a much better idea of what your normal viewing experience will be like.</p><p>After the trial, you can choose the subscription duration that fits you best without guessing whether the service works for your setup.</p>",
-        "cta": null
+        "content": "<p>For the most useful trial, test PlayTVX at the same times and on the same internet connection you normally use for streaming. Open several live channels, try the content categories you care about most and test more than one video quality when available.</p><p>If you plan to watch on a Smart TV or Fire TV, complete the setup on that device during the trial rather than testing only on a phone or computer. This gives you a much better idea of what your normal viewing experience will be like.</p><p>After the trial, you can choose the subscription duration that fits you best without guessing whether the service works for your setup.</p>"
       },
       {
         "acf_fc_layout": "faq",
@@ -187,8 +178,7 @@
         "text": "Start your 24-hour IPTV trial for $1.99 and test the service before choosing a longer subscription.",
         "background_image": 193,
         "offer": "trial",
-        "cta_label": "Start 24-Hour Trial - $1.99",
-        "cta": null
+        "cta_label": "Start 24-Hour Trial - $1.99"
       }
     ]
   },
