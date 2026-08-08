@@ -11,5 +11,9 @@
         "content": "<p>This content was published from GitHub Actions to WordPress.</p>"
       }
     ]
+  },
+  "seo": {
+    "title": "GitHub SEO Automation Test",
+    "description": "SEO metadata updated automatically through GitHub Actions."
   }
 }
